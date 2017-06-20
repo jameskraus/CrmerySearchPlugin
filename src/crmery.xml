@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="search">
+  <name>CRMery Search</name>
+  <creationDate>Tue Jun 20 10:21:41 EDT 2017</creationDate>
+  <author>James Kraus</author>
+  <authorEmail>jkraus@imagineteam.com</authorEmail>
+  <authorUrl>https://github.com/jameskraus</authorUrl>
+  <copyright>2017</copyright>
+  <license>Dual MIT/GPL3</license>
+  <version>0.0.2</version>
+  <description>CRMery Search</description>
+  <files>
+    <filename plugin="crmery">crmery.php</filename>
+  </files>
+</extension>
