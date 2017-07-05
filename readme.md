@@ -4,4 +4,4 @@ PR's welcome. I only wrote enough of this to get the job done.
 
 To build a zip file, run make.sh.
 
-Dual MIT/GPL3/Whatever Licensed.
+Dual MIT/GPL3 (or whatever) Licensed.
